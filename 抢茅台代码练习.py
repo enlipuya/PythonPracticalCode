@@ -52,3 +52,4 @@ while True:
                 print(f"主人，我已帮你抢到商品啦，您来支付吧")
                 break
         time.sleep(0.01)
+#以上内容整理自互联网
